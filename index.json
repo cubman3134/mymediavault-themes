@@ -1,0 +1,17 @@
+{
+  "themes": [
+    {
+      "name": "Aurora",
+      "author": "MyMediaVault",
+      "description": "Soft gradient background, slightly larger font, rounded search, and a detail page with the cover on top.",
+      "file": "themes/Aurora.json",
+      "assets": ["themes/aurora-bg.png"]
+    },
+    {
+      "name": "Crimson",
+      "author": "MyMediaVault",
+      "description": "A single crimson accent everywhere, with custom Movies and Music tab colours.",
+      "file": "themes/Crimson.json"
+    }
+  ]
+}
